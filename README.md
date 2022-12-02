@@ -1,4 +1,4 @@
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+![Web-developer](https://www.canva.com/design/DAFTk-8Qiz0/4XXvShyBQd2mkQmqgZJ7PA/view?utm_content=DAFTk-8Qiz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
