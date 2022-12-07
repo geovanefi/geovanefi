@@ -1,4 +1,4 @@
-![Web-developer](https://www.canva.com/design/DAFTk-8Qiz0/4XXvShyBQd2mkQmqgZJ7PA/view?utm_content=DAFTk-8Qiz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+# Queen Developer <a href='https://emojitool.com/pt/black-club-suit'>♣️</a>
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
