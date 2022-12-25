@@ -10,7 +10,7 @@
 
 <br>
 
-- I am 35 years old and live in Federal Distrit, Brazil;
+- I am 35 years old and live in Distrito Federal, Brazil;
 - I am currently pursuing my second degree, a `Software Engineering`, which is scheduled to be completed;
 - I have [IT certifications](https://www.linkedin.com/in/geovanejr00/details/certifications/) totaling more than 1,000 hours of training;
 - I worked in government permit holders and private companies for more than [10 years](https://www.linkedin.com/in/geovanejr00/details/experience/);
