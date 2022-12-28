@@ -73,7 +73,7 @@
 <a href="https://github.com/geovanefi/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=geovanefi&theme=tokyonight&border_radius=5" width="400" align="center"/> -->
 	<br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanefi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=70A4FB&icon_color=2234AE&text_color=D3D3D3&bg_color=1A1B27" width="375"  alt="m-Petry" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanefi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=70A4FB&icon_color=2234AE&text_color=D3D3D3&bg_color=1A1B27" width="375"  alt="Geovanefi" align="center"/>
 
 </a>
 </div>
