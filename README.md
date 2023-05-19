@@ -6,7 +6,7 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px><b> About</b>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif" width = 250px></picture>
 
 <br>
 
@@ -15,7 +15,7 @@
 - I have [IT certifications](https://www.linkedin.com/in/geovanejr00/details/certifications/) totaling more than 1,000 hours of training;
 - I worked in government permit holders and private companies for more than [10 years](https://www.linkedin.com/in/geovanejr00/details/experience/);
 - I am open to `internships` or `junior development` opportunities;
-- You can dowload my [brief CV](https://1drv.ms/b/s!AgJ1UaFF8t02qx5k0m0kev0DTg86?e=4ydYAi) or view my `full qualifications` on [LinkedIn](https://linkedin.com/geovanejr00);
+- You can dowload my [brief CV](https://1drv.ms/b/s!AgJ1UaFF8t02q1y4Bg3GBpaUQtsG?e=tpc5rJ) or view my `full qualifications` on [LinkedIn](https://linkedin.com/geovanejr00);
 - Please don't hesitate to [contact me](https://api.whatsapp.com/send/?phone=5551984283816&text=Hey&type=phone_number&app_absent=0) with any questions 😄.
 
 <!--- My `personal website` can be found at this [link](https://site.com); -->
