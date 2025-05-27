@@ -1,3 +1,7 @@
+<div align="center">
+  ✨ Transformando rotinas financeiras em inteligência estratégica com tecnologia! ✨
+</div>
+
 <h1 align="center"><b>Olá! Eu sou o Geovane 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -17,7 +21,8 @@
 - 🎓 MBA em Ciência de Dados e Inteligência Artificial (em andamento).
 - 📊 Expertise em Excel VBA, Power BI, Python, SharePoint e sistemas como SAP, CIGAM e MEGA.
 - 🚀 Fundador do projeto "Geovane Felício - Dados Contábeis e Decisões", que transforma informações em estratégia para MEIs e pequenas empresas.
-- 🌍 Falo Português, estou aberto a oportunidades remotas e tenho interesse em posições de dev ou tech-fin.
+- 🌍 Falo Português, estou aberto a oportunidades remotas e tenho interesse em posições de dev júnior ou tech-fin.
+- 🌐 Meu site: [geovanefelicio.com.br](https://geovanefelicio.com.br)
 
 ---
 
@@ -68,3 +73,4 @@
 <div align="center">
   ✨ Transformando rotinas financeiras em inteligência estratégica com tecnologia! ✨
 </div>
+
